@@ -8,9 +8,11 @@ MidJourney
 ElevenLabs
 Capcut
 
-Escolhendo um nome com o Chatgpt
+Escolhendo um nome e um roteiro com o Chatgpt
 https://chatgpt.com/share/68dbd0e1-7a1c-800d-9b8e-22334170ba3f
 
 Noome escolhido:
 
 Bug no Café – Conversas sinceras sobre a caminhada dev
+
+
