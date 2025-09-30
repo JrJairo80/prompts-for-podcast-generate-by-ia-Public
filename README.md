@@ -22,6 +22,8 @@ Criando uma capa para o podcast
 
 http://bing.com/images/create/a-futuristic-botanical-podcaster2c-with-a-microphon/1-68dbe9c0021c4fbb963f3f81dca7e5d6?mdl=1&ar=1&FORM=GENCRE
 
+Primeiro episodio
+
 
 
 
