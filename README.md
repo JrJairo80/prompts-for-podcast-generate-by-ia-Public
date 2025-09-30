@@ -4,8 +4,11 @@ Projeto Podcast Gerado por IA
  Tecnologias utilizadas no projeto
 
 ChatGPT
+
 MidJourney
+
 ElevenLabs
+
 Capcut
 
 Escolhendo um nome e um roteiro com o Chatgpt
