@@ -24,6 +24,13 @@ http://bing.com/images/create/a-futuristic-botanical-podcaster2c-with-a-micropho
 
 Primeiro episodio
 
+https://chatgpt.com/share/68dbf681-0760-800d-8dfd-e1bcfcf2d21d
+
+Audio do podcast
+
+https://elevenlabs.io/app/studio/CBTGIIXKF8phBSUdERU7
+
+
 
 
 
